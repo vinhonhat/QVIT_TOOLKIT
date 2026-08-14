@@ -1,5 +1,22 @@
 {
   "launcher": "26.5.8",
-  "payload": "S2600"
-}
+  "payload": "S2600",
 
+  "updater": {
+    "version": "26.8.14.0",
+    "url": "QVIT_Update.exe",
+    "sha256": "..."
+  },
+
+  "app": {
+    "version": "26.8.14.1",
+    "url": "QVIT_AIO.zip",
+    "sha256": "..."
+  },
+
+  "data": {
+    "version": "S2601",
+    "url": "payload.zip",
+    "sha256": "..."
+  }
+}
