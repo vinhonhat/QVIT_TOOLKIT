@@ -1,24 +1,26 @@
 {
-  "schema": 2,
-
-  "launcher": "26.8.14",
-  "payload": "S2601",
-
+  "schema": 3,
+  "launcher": "26.8.14.1",
+  "payload": "S2608",
+  "manifest_urls": [
+    "https://raw.githubusercontent.com/vinhonhat/QVIT_TOOLKIT/main/version.json"
+  ],
+  "base_urls": [
+    "https://github.com/vinhonhat/QVIT_TOOLKIT/releases/latest/download"
+  ],
   "updater": {
-    "version": "2.0.1",
-    "url": "QVIT_Update.exe",
-    "sha256": "..."
+    "version": "2.2.0",
+    "file": "QVIT_Update.exe",
+    "sha256": ""
   },
-
   "app": {
     "version": "26.8.14.1",
-    "url": "QVIT_AIO.zip",
-    "sha256": "..."
+    "file": "QVIT_AIO.zip",
+    "sha256": ""
   },
-
   "payload_data": {
-    "version": "S2601",
-    "url": "payload.zip",
-    "sha256": "..."
+    "version": "S2608",
+    "file": "payload.zip",
+    "sha256": ""
   }
 }
