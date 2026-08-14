@@ -1,9 +1,11 @@
 {
-  "launcher": "26.5.8",
-  "payload": "S2600",
+  "schema": 2,
+
+  "launcher": "26.8.14",
+  "payload": "S2601",
 
   "updater": {
-    "version": "26.8.14.0",
+    "version": "2.0.1",
     "url": "QVIT_Update.exe",
     "sha256": "..."
   },
@@ -14,7 +16,7 @@
     "sha256": "..."
   },
 
-  "data": {
+  "payload_data": {
     "version": "S2601",
     "url": "payload.zip",
     "sha256": "..."
