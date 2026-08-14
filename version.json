@@ -10,7 +10,7 @@
     "https://github.com/vinhonhat/QVIT_TOOLKIT/releases/latest/download"
   ],
   "updater": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "file": "QVIT_Update.exe",
     "sha256": ""
   },
