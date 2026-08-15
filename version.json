@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "launcher": "26.8.14",
-  "payload": "S2601",
+  "payload": "S2608",
   "manifest_urls": [
     "https://raw.githubusercontent.com/vinhonhat/QVIT_TOOLKIT/main/version.json"
   ],
@@ -15,12 +15,12 @@
     "sha256": ""
   },
   "app": {
-    "version": "26.8.14.1",
+    "version": "26.8.15.1",
     "file": "QVIT_AIO.zip",
     "sha256": ""
   },
   "payload_data": {
-    "version": "S2601",
+    "version": "S2608",
     "file": "payload.zip",
     "sha256": ""
   }
