@@ -9,18 +9,13 @@
     "https://github.com/vinhonhat/QVIT_TOOLKIT/releases/latest/download"
   ],
   "updater": {
-    "version": "2.2.3",
+    "version": "2.3.0",
     "file": "QVIT_Update.exe",
     "sha256": ""
   },
   "app": {
     "version": "26.8.16",
     "file": "QVIT_AIO.zip",
-    "sha256": ""
-  },
-  "setup": {
-    "version": "26.8.16",
-    "file": "QVIT_Setup.exe",
     "sha256": ""
   },
   "payload_data": {
