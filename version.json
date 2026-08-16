@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "launcher": "26.8.15.20",
+  "launcher": "26.8.15.23",
   "payload": "S2608",
   "manifest_urls": [
     "https://raw.githubusercontent.com/vinhonhat/QVIT_TOOLKIT/main/version.json"
